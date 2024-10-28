@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IbkActivityPlanner</string>
+    <string name="str_switch">Good weather?</string>
+    <string name="str_btnStart">Let\'s roll!</string>
+    <string name="str_DescriptionHeading">What you will be doing:</string>
+
+    <string name="str_Rave">Let\'s go Sillschlucht.</string>
+    <string name="str_Date">Find a date and find some love or whatever.</string>
+    <string name="str_Irish">There is always room for some more weird people at Limericks.</string>
+
+    <string name="str_ki">Breath some chalk and pull some crimps with probably 1\-2 others.</string>
+    <string name="str_AAT">Ride the best of legal trails in bike city Innsbruck. And oh it is more or less the only one.</string>
+    <string name="str_ferner">Go tourin on Lüsener Fernerkogel. Weiße Mauer is especially fun when super icy.</string>
+
+    <string name="str_Android">I am sure you have something to do for App-Programming.</string>
+    <string name="str_Robotics">Make sure to be done with robotics soon, Benni will be proud.</string>
+    <string name="str_Bib">Actually you wanted study in a cafe but now you are just drinking coffee all the time.</string>
+</resources>
